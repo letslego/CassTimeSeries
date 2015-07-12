@@ -8,4 +8,4 @@ The timestamp of the reading will be the column name and the temperature the col
 Since each column is dynamic, our row will grow as needed to accommodate the data. We will also get the built-in sorting of 
 Cassandra to keep everything in order.
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt](https://github.com/letslego/CassTimeSeries/blob/master/images/TimeSeries1.png)
